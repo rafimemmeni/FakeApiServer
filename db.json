@@ -12,5 +12,5 @@
   "user": [
     { "id": 1, "name": "this is name", "email": "emailee@dfs","phone": "dsfsf"},
     { "id": 2, "name": "this is also name", "email": "sfsfsf@sdfsd","phone":"sdfsf" }
-  ],
+  ]
 }
